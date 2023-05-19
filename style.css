@@ -1,0 +1,39 @@
+.options_nav{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+}
+
+.section_main{
+    padding: 4em;
+}
+.main_info{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    color:white;
+    background-color: rgb(12, 30, 54);
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+
+ 
+
+} 
+
+.botao{
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    background: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.botao:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+}
